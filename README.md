@@ -66,23 +66,17 @@ pip install numpy scipy matplotlib
 python TrainLeNet.py
 
 #Train Elman RNN
-
 python TrainElmanRNN.py
+```
+## 🧠 Learning Goals
 
-🧠 Learning Goals
+This project is intended for: \
+    - Understanding how deep learning works under the hood. \
+    - Experimenting with forward/backpropagation math. \
+    - Understanding sequence modeling with Elman RNNs. \
+    - Building intuition for neural networks without relying on frameworks. \
+    - Serving as a foundation to extend toward more complex architectures (e.g., VGG, ResNet, LSTMs). 
 
-This project is intended for:
-
-    Understanding how deep learning works under the hood.
-
-    Experimenting with forward/backpropagation math.
-
-    Understanding sequence modeling with Elman RNNs.
-
-    Building intuition for neural networks without relying on frameworks.
-
-    Serving as a foundation to extend toward more complex architectures (e.g., VGG, ResNet, LSTMs).
-
-👤 Author
+## 👤 Author
 
     VuKe77

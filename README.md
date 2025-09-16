@@ -58,20 +58,16 @@ source venv/bin/activate     # On Windows: .\venv\Scripts\activate
 Install dependencies:
 
 pip install numpy scipy matplotlib
+```
 
-🚀 Usage
-Train LeNet
-
+## 🚀 Usage
+ ``` bash
+#Train LeNet
 python TrainLeNet.py
 
-Train Elman RNN
+#Train Elman RNN
 
 python TrainElmanRNN.py
-
-Run Tests
-
-python NeuralNetworkTests.py
-python SoftConvTests.py
 
 🧠 Learning Goals
 
